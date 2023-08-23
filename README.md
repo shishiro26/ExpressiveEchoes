@@ -1,5 +1,4 @@
 
-```markdown
 # Expressive Echoes
 
 Welcome to **Expressive Echoes**, a unique platform that resonates with a diverse range of thoughts and ideas, creating an echo of insightful perspectives. This project is built using the MERN stack (MongoDB, Express.js, React, Node.js) and is designed to offer a captivating space to share and explore meaningful discussions.
@@ -38,7 +37,7 @@ Before you begin, ensure you have the following tools installed:
 2. Navigate to the project directory:
 
    ```bash
-   cd expressive-echoes
+   cd Blogging
    ```
 
 3. Install server dependencies:
@@ -94,13 +93,4 @@ Before you begin, ensure you have the following tools installed:
 
    The React app will run on [http://localhost:5173](http://localhost:5173).
 
-## Contributing
 
-Contributions are welcome! If you'd like to contribute to Expressive Echoes, please follow the guidelines outlined in [CONTRIBUTING.md](CONTRIBUTING.md).
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-```
-
-Please use this Markdown format for your README.md file. You can simply copy and paste it into your repository's README.md and replace the placeholders with your actual information.
