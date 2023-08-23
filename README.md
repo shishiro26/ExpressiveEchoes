@@ -15,8 +15,7 @@ Welcome to **Expressive Echoes**, a unique platform that resonates with a divers
 - [Installation](#installation)
 - [Setting Up Environment Variables](#setting-up-environment-variables)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Prerequisites
 
